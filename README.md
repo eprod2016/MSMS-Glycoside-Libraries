@@ -1,5 +1,5 @@
 # MSMS-Glycoside-Libraries
-Alternative Identification of Glycosides Using MS/MS Matching with an In Silico-Modified Aglycone Mass Spectra Library
+Manuscript: Alternative Identification of Glycosides Using MS/MS Matching with an In Silico-Modified Aglycone Mass Spectra Library by Elys P Rodriguez
 
 
 Find all libraries in this link: 
